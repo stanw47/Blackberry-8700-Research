@@ -1,0 +1,275 @@
+﻿---------------------------------------------
+Name: net.rim.blackberry
+Modules:
+	net_rim_os
+	net_rim_smartcard
+	net_rim_wap
+	net_rim_event_log_viewer_app
+	net_rim_io_contentstore
+	net_rim_cldc_io_rim_impl
+	net_rim_runtime_resource
+	net_rim_runtime_resource__en
+	net_rim_bb_activation
+	net_rim_bb_addressbook_app
+	net_rim_bb_addressbook_gal
+	net_rim_bb_addressbook_models
+	net_rim_bb_addressbook_groupaddress
+	net_rim_bb_alarm_app
+	net_rim_bb_apps_framework
+	net_rim_bb_attachment
+	net_rim_bb_browser_field_api
+	net_rim_bb_browser_push
+	net_rim_bb_calendar_app
+	net_rim_bb_calendar_lib
+	net_rim_bb_calendar_ota
+	net_rim_bb_email
+	net_rim_bb_profiles_tunes
+	net_rim_bb_remindermanager
+	net_rim_bb_ribbon_app
+	net_rim_bb_messagesearch_lib
+	net_rim_bb_itadmin
+	net_rim_bb_applicationdelivery
+	net_rim_bb_resource
+	net_rim_bb_resource__en
+	net_rim_bb_mc_app
+	net_rim_bb_password_wizard
+	net_rim_cldc_io_tcp
+	net_rim_tcp_options
+	net_rim_bb_addressbook_simapp
+	net_rim_se13nettable
+	net_rim_bb_globalsearch_app
+	net_rim_MIDPRootCerts
+	net_rim_bbapi_mailv2
+	net_rim_bbapi_mail
+	net_rim_bbapi_menuitem
+	net_rim_bbapi_pim
+	net_rim_bbapi_pim_todo
+	net_rim_pdap
+	net_rim_pdap_resources
+	net_rim_pdap_todo
+	net_rim_bbapi_pim_res
+	net_rim_bbapi_pim_res__en
+	net_rim_bbapi_options
+	net_rim_bbapi_browser
+	net_rim_bbapi_phone
+	net_rim_bbapi_invoke
+	net_rim_serialformats
+	net_rim_bb_phone_entry
+	net_rim_locationapi
+	net_rim_bb_ribbon_skin_svg
+	net_rim_bb_contentinjector
+	net_rim_bb_explorer_picture
+	net_rim_plazmic_mediaengine
+	net_rim_plazmic_mediaengine_pme02
+	net_rim_plazmic_mediaengine_pme10
+	net_rim_plazmic_mediaengine_bundle
+	net_rim_bb_standardcalculator_app
+	net_rim_font_european_sff
+	net_rim_bb_idlescreen_app
+	net_rim_device_api_games
+	net_rim_theme_blackberry_320x240
+	net_rim_bb_backdrops_320x240
+	net_rim_theme_bb_dimension_list_320x240
+	net_rim_bb_backdrops_320x240
+	net_rim_theme_bb_insight_icon_320x240
+	net_rim_bb_backdrops_320x240
+	net_rim_theme_bb_insight_list_320x240
+	net_rim_bb_backdrops_320x240
+	net_rim_theme_102_320x240
+	net_rim_bb_profiles_tunes_tunebundles_tunes8700g
+---------------------------------------------
+Name: net.rim.blackberry.api
+Modules:
+	net_rim_bbapi_mailv2
+	net_rim_bbapi_mail
+	net_rim_bbapi_menuitem
+	net_rim_bbapi_pim
+	net_rim_bbapi_pim_todo
+	net_rim_pdap
+	net_rim_pdap_resources
+	net_rim_pdap_todo
+	net_rim_bbapi_pim_res
+	net_rim_bbapi_pim_res__en
+	net_rim_bbapi_options
+	net_rim_bbapi_browser
+	net_rim_bbapi_phone
+	net_rim_bbapi_invoke
+	net_rim_serialformats
+	net_rim_bb_phone_entry
+	net_rim_locationapi
+---------------------------------------------
+Name: net.rim.blackberry.crypto1
+Modules:
+	net_rim_crypto_resource
+	net_rim_crypto_resource__en
+	net_rim_crypto_1
+---------------------------------------------
+Name: net.rim.blackberry.crypto2
+Modules:
+	net_rim_crypto_2
+	net_rim_smartcard_gsacac
+	net_rim_smartcard_gsacac_authenticator
+	net_rim_bb_smartcard_init
+	net_rim_smartcard_datakey
+	net_rim_smartcard_datakey_authenticator
+---------------------------------------------
+Name: net.rim.blackberry.crypto3
+Modules:
+	net_rim_crypto_3
+---------------------------------------------
+Name: net.rim.blackberry.cms
+Modules:
+	net_rim_crypto_cms
+---------------------------------------------
+Name: net.rim.blackberry.cryptoappsapi
+Modules:
+	net_rim_bb_crypto_api
+	net_rim_bb_crypto_resource
+	net_rim_bb_crypto_resource__en
+---------------------------------------------
+Name: net.rim.blackberry.keystorebrowser
+Modules:
+	net_rim_crypto_keystore_browser
+---------------------------------------------
+Name: net.rim.blackberry.keystorebrowser.certificate
+Modules:
+	net_rim_crypto_keystore_browser_certificate
+---------------------------------------------
+Name: net.rim.blackberry.xml
+Modules:
+	net_rim_xml
+---------------------------------------------
+Name: net.rim.device.apps.games.BrickBreaker
+Modules:
+	net_rim_device_apps_games_brickbreaker
+	net_rim_device_apps_games_brickbreaker8700Resources
+---------------------------------------------
+Name: net.rim.java.browser
+Modules:
+	net_rim_bb_browser_rendering_lib
+	net_rim_bb_browser_lib
+	net_rim_bb_browser_daemon
+	net_rim_loader
+	net_rim_bb_browser_lib_large
+	net_rim_bb_browser_plugin_security
+	net_rim_bb_browser_lib_large_color
+	net_rim_bb_mms
+	net_rim_bb_addressbook_vcard
+	net_rim_plazmic_mediaengine_smil_00
+	net_rim_plazmic_mediaengine_smil_format
+	net_rim_plazmic_mediaengine_smil_mms
+	net_rim_device_apps_internal_browser_smil
+---------------------------------------------
+Name: net.rim.java.browser.javascript
+Modules:
+	net_rim_bb_browser_javascript
+---------------------------------------------
+Name: net.rim.java.docViewer
+Modules:
+	net_rim_bb_docview
+	net_rim_bb_browser_plugin_docview
+	net_rim_bb_docviewimage
+---------------------------------------------
+Name: net.rim.java.help
+Modules:
+	net_rim_bb_help
+	net_rim_bb_help_gprs__en
+---------------------------------------------
+Name: net.rim.java.memopad
+Modules:
+	net_rim_bb_memo_app
+---------------------------------------------
+Name: net.rim.java.passwordkeeper
+Modules:
+	net_rim_bb_passwordkeeper
+	net_rim_bb_passwordkeeper_resource
+	net_rim_bb_passwordkeeper_resource__en
+---------------------------------------------
+Name: net.rim.java.phone
+Modules:
+	net_rim_bb_phone_api
+	net_rim_bb_phone_app
+---------------------------------------------
+Name: net.rim.java.phone.tty
+Modules:
+	net_rim_phone_tty_enabler
+---------------------------------------------
+Name: net.rim.platform
+Modules:
+	net_rim_platform_resource__en_US
+	net_rim_platform_im_resource__en_US
+	net_rim_app_manager
+	net_rim_app_manager_console
+	net_rim_cldc
+	net_rim_font_system
+	net_rim_platform_resource
+	net_rim_platform_resource__en
+	net_rim_platform_im_resource
+	net_rim_platform_im_resource__en
+	net_rim_platformapps_resource
+	net_rim_platformapps_resource__en
+	net_rim_services_impl
+	net_rim_bb_addressbook
+	net_rim_bb_browser
+	net_rim_bb_framework_api
+	net_rim_bb_messaging
+	net_rim_bb_messaging_app
+	net_rim_bb_models
+	net_rim_bb_options
+	net_rim_bb_options_app
+	net_rim_bb_phone_model
+	net_rim_bb_phone_resource
+	net_rim_bb_profiles_app
+	net_rim_bb_profiles_lib
+	net_rim_bb_quickcontact
+	net_rim_bb_ribbon_lib
+	net_rim_bb_search
+	net_rim_bb_voice
+	net_rim_escreen
+	net_rim_escreen_app
+	net_rim_bb_sms
+	net_rim_cellbroadcast
+	net_rim_bluetooth
+---------------------------------------------
+Name: net.rim.platform.ecmascript
+Modules:
+	net_rim_ecmascript
+	net_rim_ecmascript_resource
+	net_rim_ecmascript_resource__en
+	net_rim_ecmascript_regexp
+---------------------------------------------
+Name: net.rim.java.tasks
+Modules:
+	net_rim_bb_task_app
+---------------------------------------------
+Name: Golf
+Modules:
+	ProGolfParadise
+	ProGolfParadise_res1
+	ProGolfParadise_res2
+	ProGolfParadise_res3
+---------------------------------------------
+Name: Medieval Kings 2:Magmic Games
+Modules:
+	MedievalKings
+	MedievalKings_RES
+	MedievalKings_RES2
+	MedievalKings_LIB2
+	MedievalKings_LIB
+---------------------------------------------
+Name: Spider Solitaire:Magmic Games
+Modules:
+	SpiderSolitaire
+	SpiderSolitaire-1
+---------------------------------------------
+JavaLoader.exe : RIM Wireless Handheld Java Loader
+At line:1 char:160
++ ... STANLE~1\AppData\Local\Temp\opencode\8700"; & $jl dir -g 2>&1 | Out-F ...
++                                                 ~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (RIM Wireless Handheld Java Loader:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Copyright 2001-2010 Research In Motion Limited
+Connecting to device...
+Connected                 
+Disconnected

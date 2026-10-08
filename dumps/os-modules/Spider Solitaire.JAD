@@ -1,0 +1,10 @@
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-CodeModuleGroup: Spider Solitaire:Magmic Games
+MIDlet-Name: Spider Solitaire
+MIDlet-Vendor: Magmic Games
+MIDlet-Version: 1.0.6
+MIDlet-Description: Spider Solitaire
+RIM-COD-URL: SpiderSolitaire.cod
+RIM-COD-Module-Name: Spider Solitaire

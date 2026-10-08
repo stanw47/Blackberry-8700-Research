@@ -1,0 +1,14 @@
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-CodeModuleGroup: Medieval Kings 2:Magmic Games
+MIDlet-Name: Medieval Kings 2
+MIDlet-Vendor: Magmic Games
+MIDlet-Version: 2.0.5
+MIDlet-Description: Medieval Kings 2
+RIM-COD-URL: MedievalKings.cod
+RIM-COD-URL-1: MedievalKings_RES.cod
+RIM-COD-URL-2: MedievalKings_RES2.cod
+RIM-COD-URL-3: MedievalKings_LIB2.cod
+RIM-COD-URL-4: MedievalKings_LIB.cod
+RIM-COD-Module-Name: Medieval Kings 2

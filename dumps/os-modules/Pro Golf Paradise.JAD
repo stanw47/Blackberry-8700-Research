@@ -1,0 +1,14 @@
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Manifest-Version: 1.0
+RIM-CodeModuleGroup: Golf
+MIDlet-Name: Pro Golf Paradise
+MIDlet-Vendor: Magmic Inc.
+MIDlet-Version: 1.0.1
+MIDlet-Description: Escape to the ultimate golf destination and forget everything else!  Get ready for the greatest golf experience!
+Copyright: Copyright (c) 2005 Magmic Inc.
+RIM-COD-URL: ProGolfParadise.cod
+RIM-COD-URL-1: ProGolfParadise_res1.cod
+RIM-COD-URL-2: ProGolfParadise_res2.cod
+RIM-COD-URL-3: ProGolfParadise_res3.cod
+RIM-COD-Module-Name: Pro Golf Paradise
