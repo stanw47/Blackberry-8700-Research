@@ -21,7 +21,8 @@ and the ancestor of the modern BlackBerry line. Private repo.
 - [x] USB connection + full enumeration (JavaLoader over RIM USB)
 - [x] Full OS module dump — **168/168 modules**, 11.7 MB (`dumps/os-modules/`)
 - [x] Screenshot + event log extraction
-- [ ] Engineering-screen (`net_rim_escreen*`) decompilation
+- [x] Engineering-screens architecture mapped (7.1 decomp; time-limited
+      persistent unlock record; backdoor in Options/Host Routing Table)
 - [ ] Code-signing model research (how to run our own `.cod`)
 - [ ] 2G / local-carrier validation (device is outside the USA; GSM may still be live)
 - [ ] Field tooling: cell-ID logger, 2G downgrade canary
@@ -39,11 +40,15 @@ dumps/
 media/
   8700-screen.png  live screenshot (320x240)
   8700-screen.bmp  raw BMP capture
+analysis/
+  escreen-7.1-decomp/  coddec decompilation of JDE 7.1 escreen modules
+                       (architecture reference for BBOS 4.1)
 notes/
   01-connection-and-enumeration.md
   02-firmware-dump.md
+  03-engineering-screens-escreen.md
 tools/
-  README.md        tool inventory (JavaLoader, BBSAK, MFI, Barry)
+  README.md        tool inventory (JavaLoader, BBSAK, MFI, Barry, coddec)
   bbos_dump.ps1    reproduction script for the module dump
 ```
 
